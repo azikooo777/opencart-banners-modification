@@ -31,10 +31,10 @@ and it is available in the following templates
   
 Let's display our previously written text **example**. I wrote. This text in slideshow.
 
-Go to **catalog/view/theme/your-theme-name or default/template/extension/module/slideshow.twig** bellow example image code before
+Go to **catalog/view/theme/your-theme-name or default/template/extension/module/slideshow.twig**. Bellow example image code before
 ![Image Before](https://github.com/azikooo777/opencart-banners-modification/blob/master/images/example-2.png)
-I add code {{banner.description}}. bellow example image code after
+I add code {{banner.description}}. Bellow example image code after
 ![Image After](https://github.com/azikooo777/opencart-banners-modification/blob/master/images/example-3.png)
 
-Now go to our site and you should text **example** bellow example image
+Now go to our site and you should text **example**. Bellow example image
 ![Image After](https://github.com/azikooo777/opencart-banners-modification/blob/master/images/example-4.png)
