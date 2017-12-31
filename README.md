@@ -1,5 +1,5 @@
 # opencart-banners-modification
-Add in Baners Description for OpenCart 3.x
+Add in Baners **Description** for OpenCart 3.x
 
 # INSTALL
 
