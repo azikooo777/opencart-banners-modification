@@ -3,7 +3,7 @@ Add in Baners **Description** for OpenCart 3.x
 
 # INSTALL
 
-Go to Extension **Extensions -> Installer**
+Go to **Extensions -> Installer**
 
 Then click the blue Upload button and provide the route to your extension "banner_modification.ocmod.zip" archive.
 
