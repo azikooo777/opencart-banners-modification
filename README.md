@@ -32,9 +32,9 @@ and it is available in the following templates
 Let's display our previously written text **example**. I wrote. This text in slideshow.
 
 Go to **catalog/view/theme/your-theme-name or default/template/extension/module/slideshow.twig** bellow example image code before
-![Image Before](https://octodex.github.com/images/yaktocat.png)
+![Image Before](https://github.com/azikooo777/opencart-banners-modification/blob/master/images/example-2.png)
 I add code {{banner.description}}. bellow example image code after
-![Image After](https://octodex.github.com/images/yaktocat.png)
+![Image After](https://github.com/azikooo777/opencart-banners-modification/blob/master/images/example-3.png)
 
 Now go to our site and you should text **example** bellow example image
-![Image After](https://octodex.github.com/images/yaktocat.png)
+![Image After](https://github.com/azikooo777/opencart-banners-modification/blob/master/images/example-4.png)
