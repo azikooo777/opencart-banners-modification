@@ -11,8 +11,7 @@ Then go to **Extensions -> Modifications** click the blue refresh button
 
 # IMPORTANT 
 
-After installation. Go to **Design -> Banners** to create 
-automatically column **description** in table tablePrefix_banner_image. Since opencart 3.x does not support index.php and install.sql when installing.
+You must have ALTER privilege MySql.
 
 ===============================================================================
 
