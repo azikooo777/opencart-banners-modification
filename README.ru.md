@@ -39,6 +39,6 @@
 
 ![Image After](https://github.com/azikooo777/opencart-banners-modification/blob/master/images/example-3.png)
 
-Теперь давайте перейдем на наш сайт и мы должны увидеть текст **example**. Ниже приведен пример с изображением того как выглядит.
+Теперь давайте перейдем на наш сайт и вы должны увидеть текст **example**. Ниже приведен пример с изображением того как выглядит.
 
 ![Image Last](https://github.com/azikooo777/opencart-banners-modification/blob/master/images/example-4.png)
