@@ -23,7 +23,7 @@
 
 Давайте напишем текст **example** и сохраним.
 
-Теперь мы имеем новую переменую description в массиве banners
+Теперь мы имеем новую переменую **description в массиве banners**
 и эта переменая доступна на сдедуших шаблонах
   * **catalog/view/theme/your-theme-name or default/template/extension/module/slideshow.twig**
   * **catalog/view/theme/your-theme-name or default/template/extension/module/carousel.twig**
