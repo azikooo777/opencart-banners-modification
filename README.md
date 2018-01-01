@@ -17,19 +17,19 @@ You must have ALTER privilege MySql.
 
 # EXAMPLE
 
-Go to **Design -> Banners** and choose your banner or add new banner and you should see a new field description. Below is an example of an image, as should look
+Go to **Design -> Banners** and choose your banner or add new banner and you should see a new field **Description**. Below is an example of an image, as should look
 
 ![Example 1](https://github.com/azikooo777/opencart-banners-modification/blob/master/images/example-1.png)
 
 Let's write the text **example** and save.
 
-now we have a new variable description in banners array 
+Now we have a new variable **description in banners array** 
 and it is available in the following templates
   * **catalog/view/theme/your-theme-name or default/template/extension/module/slideshow.twig**
   * **catalog/view/theme/your-theme-name or default/template/extension/module/carousel.twig**
   * **catalog/view/theme/your-theme-name or default/template/extension/module/banner.twig**
   
-Let's display our previously written text **example**. I wrote. This text in slideshow.
+Let's display our previously written text **example**. I wrote this text in banners slideshow.
 
 Go to **catalog/view/theme/your-theme-name or default/template/extension/module/slideshow.twig**. Bellow example image code before.
 
