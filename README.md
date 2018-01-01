@@ -39,6 +39,6 @@ I add code {{banner.description}}. Bellow example image code after.
 
 ![Image After](https://github.com/azikooo777/opencart-banners-modification/blob/master/images/example-3.png)
 
-Now go to our site and you should text **example**. Bellow example image.
+Now go to our site and you should text **example**. Bellow example image as should look.
 
 ![Image Last](https://github.com/azikooo777/opencart-banners-modification/blob/master/images/example-4.png)
